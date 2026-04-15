@@ -1,0 +1,4 @@
+[submodule "j16_fig_data_zarr.zarr"]
+	path = j16_fig_data_zarr.zarr
+	url = https://github.com/dandizarrs/5a520c6f-6e09-4a5f-a840-5d645f8d40e0
+	datalad-id = d38ef84e-846e-4291-8be6-093059b531a8
