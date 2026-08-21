@@ -2,3 +2,43 @@
 	path = j16_fig_data_zarr.zarr
 	url = https://github.com/dandizarrs/5a520c6f-6e09-4a5f-a840-5d645f8d40e0
 	datalad-id = d38ef84e-846e-4291-8be6-093059b531a8
+[submodule "j1620210707_epoch_12.zarr"]
+	path = j1620210707_epoch_12.zarr
+	url = https://github.com/dandizarrs/59f0cefb-c590-4d8f-9553-a6f306878352
+	datalad-id = d55bdb79-e08a-4b7a-85fa-8e0ccd303959
+[submodule "j1620210707_epoch_2.zarr"]
+	path = j1620210707_epoch_2.zarr
+	url = https://github.com/dandizarrs/3e7797a1-3e15-4d25-9ce7-a9d8d87a6679
+	datalad-id = 455f9e09-3ecf-4e58-bcbb-36fb1f93f180
+[submodule "j1620210706_epoch_4.zarr"]
+	path = j1620210706_epoch_4.zarr
+	url = https://github.com/dandizarrs/adff2868-4154-44b2-adbf-a8f98f1721ab
+	datalad-id = 8bf7a866-db65-4beb-b46d-f6e9d4ca5137
+[submodule "j1620210707_epoch_10.zarr"]
+	path = j1620210707_epoch_10.zarr
+	url = https://github.com/dandizarrs/5463f604-bf69-4388-a183-36fdf4b5023b
+	datalad-id = bc654007-a980-40b2-b5f9-9aae9e19b5f8
+[submodule "j1620210706_epoch_6.zarr"]
+	path = j1620210706_epoch_6.zarr
+	url = https://github.com/dandizarrs/d0b972d2-1493-4d30-9110-d6ef7378f4c4
+	datalad-id = b0262ff4-5fc6-4a44-920d-4185e65dfcd4
+[submodule "j1620210707_epoch_2_july_events.zarr"]
+	path = j1620210707_epoch_2_july_events.zarr
+	url = https://github.com/dandizarrs/165b5b15-5284-4576-ac23-cc31e8320da0
+	datalad-id = 4e400004-ff04-466f-9890-881670fbbc88
+[submodule "j1620210707_epoch_4.zarr"]
+	path = j1620210707_epoch_4.zarr
+	url = https://github.com/dandizarrs/b989ccb5-62bd-4bea-85f7-7d4a1d2938da
+	datalad-id = cb905e45-b591-4aa7-a833-4ede1acedfc3
+[submodule "j1620210707_epoch_4_july_events.zarr"]
+	path = j1620210707_epoch_4_july_events.zarr
+	url = https://github.com/dandizarrs/7b3ef9e9-b3ff-4800-bfc1-3967e6d634aa
+	datalad-id = a6fdace4-f83d-4b05-b004-20b7c668a62d
+[submodule "j1620210707_epoch_6.zarr"]
+	path = j1620210707_epoch_6.zarr
+	url = https://github.com/dandizarrs/22ae7790-9c93-4f87-957c-321b9dae5dd4
+	datalad-id = f51f8bf7-2376-48f3-b079-e6548e595421
+[submodule "j1620210708_epoch_2.zarr"]
+	path = j1620210708_epoch_2.zarr
+	url = https://github.com/dandizarrs/efbd90e4-58a7-4172-85cd-c03df8affbb5
+	datalad-id = 4c284176-e199-4bab-9521-cd186d500d41

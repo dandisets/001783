@@ -7,9 +7,14 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 814358798
+  numberOfFiles: 8
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Bray, Samuel (2026) Franklab curvenote demo (Version draft) [Data set].
   DANDI Archive. https://dandiarchive.org/dandiset/001783/draft
 contributor:
